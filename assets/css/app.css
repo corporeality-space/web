@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css?family=Wallpoet");
+
+body {
+	/*background: url("/img/bg1.png") no-repeat center center fixed;*/
+	background: #222120;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#logo {
+	/*width: 12.8em;
+	height: 3.6em;
+	background: url("/img/logo.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;*/
+	/*margin-top: 5%;*/
+	margin-top: 0px;
+	text-shadow: 1px 0.5px 1px rgba(0,0,0,0.9);
+	font-family: "Wallpoet", cursive;
+	font-variant: small-caps;
+	font-size: 150%;
+}
+
+.sticky {
+	width: 100%;
+}
+
+.top-bar-container {
+	margin-bottom: 16px;
+}
+
+.top-bar .dropdown {
+	background: initial;
+}
+
+.top-bar ul > li {
+	font-size: 150%;
+}
+
+.top-bar ul > li > a {
+	/*margin-top: 5%;*/
+	margin-top: 0px;
+	text-shadow: 1px 0.5px 1px rgba(0,0,0,0.9);
+	font-family: "Wallpoet", cursive;
+	font-variant: small-caps;
+}
+
+.content-box {
+	background: rgba(255, 255, 255, 0.85);
+	box-shadow: 0 0 13px rgba(0, 0, 0, 0.9);
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-bottom: 16px;
+}
+
+.content-title {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+	margin-bottom: 12px;
+}
+
+.content-title > h1 {
+	text-align: center;
+	font-variant: small-caps;
+	margin-bottom: 0.25rem;
+}
+
+.content-title > h2 {
+	text-align: center;
+	font-variant: small-caps;
+	margin-bottom: 0.25rem;
+}
+
+.content-title > h3 {
+	text-align: center;
+	font-variant: small-caps;
+	margin-bottom: 0.25rem;
+}
+
+.content-title > h4 {
+	text-align: right;
+	font-size: 80%;
+	color: rgba(0, 0, 0, 0.75);
+}
+
+.content-box > section > h1 {
+	font-variant: small-caps;
+	font-size: 2.0rem;
+	border-bottom: 1px dotted black;
+}
+
+.content-box > section > h2 {
+	font-variant: small-caps;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.content-box > section > h3 {
+	font-variant: small-caps;
+	font-size: 1.25rem;
+}
+
+.content-box > section img {
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.7);
+}
+
+.content-box table {
+	width: 50%;
+}
+
+.content-box tbody th, .content-box tbody td {
+	padding-top: 0.3rem;
+	padding-bottom: 0.425rem;
+}
+
+.blog-preview {
+	height: 15em;
+	margin-bottom: 1.5em;
+}
+
+.blog-preview > section {
+	color: rgba(0, 0, 0, 0.85);
+}
