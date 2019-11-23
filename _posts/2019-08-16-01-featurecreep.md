@@ -11,7 +11,7 @@ When you're building anything creative, you have two routes you can take.
 You can jump in head first and see where the wind blows you, or you can sit down and carefully plan out what you want to build.  
 Of course, we do things the awkward way, and have ended up with a strange hybrid of these methods.  
 The design document itself, when it was originally put up on Google Docs is just an incoherent string of thoughts spewed out onto a digital page. Weapon concepts, features we wanted to see, game modes, maps...  
-I'm doing my best to port this over to this site, and as close to verbatim as possible so you can see what our "ultimate" desires are, however it's unlikely that we will implement everything we have laid out in [that document](https://shockkolate.github.io/polar-space/design).  
+I'm doing my best to port this over to this site, and as close to verbatim as possible so you can see what our "ultimate" desires are, however it's unlikely that we will implement everything we have laid out in [that document](https://shockkolate.github.io/design).  
 That's where "Feature Creep" comes in.
 
 
@@ -26,7 +26,7 @@ Our original scope has bloated way beyond what we originally intended, so we've 
 # Fixing "Feature Creep"
 ## Now
 For us, we still want our ultimate goals to be reached, so we've decided to split development into "Expansions".  
-The "Base Game", at least initially, will be the [Technical Demonstration](https://shockkolate.github.io/polar-space/designs/prototype) which will have the following features:
+The "Base Game", at least initially, will be the [Technical Demonstration](https://shockkolate.github.io/designs/prototype) which will have the following features:
 
 - A single pilotable ship, with "final game" manoeuvrability.
 - A single projectile weapon, with simple damage.
@@ -68,8 +68,8 @@ Our first "Expansion" is rather ambitious, but is a big deal:
 Staying on track and keeping development focussed on each set of specific features for that "expansion" isn't going to be easy. What is easy is getting side-tracked, or overambitious.  
 But if we can ensure that we stay focussed on our feature goals for each "expansion" we should be able to keep development going at a reasonable pace.
 
-[The Design Document](https://shockkolate.github.io/polar-space/design) is a "living" document and will be updated and polished as we continue development. Some features will be added, some features will be removed.  
-Once the Google Doc has been fully ported over, I plan to keep a [record](https://shockkolate.github.io/polar-space/designs/cutting-room) of stuff that was cut from development and why.
+[The Design Document](https://shockkolate.github.io/design) is a "living" document and will be updated and polished as we continue development. Some features will be added, some features will be removed.  
+Once the Google Doc has been fully ported over, I plan to keep a [record](https://shockkolate.github.io/designs/cutting-room) of stuff that was cut from development and why.
 
 -{{ page.author }}
 
