@@ -24,6 +24,10 @@ If you want to check out the codebase, click [here](https://github.com/polar-eng
 Not just now, we have a small group of friends acting as internal testers, but it's not much of a "Game" quite yet. More like a tech-demo.  
 Once we're happy with it though, we'll start releasing the tech demos here!
 
+### "Corporeality"?
+
+A play on "Corporeal" in ironic regard to ships being piloted remotely through consciousness transfer, and a portmanteau of "Corporate" and "Reality". We bounced around a few ideas, but we just kept circling back to it, and it stuck!
+
 ### This website is really janky! What's up with that?
 We only have a vague idea of what we are doing, so this website is as experimental as our game code! <br>
 
