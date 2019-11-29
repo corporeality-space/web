@@ -2,13 +2,13 @@
 title: About the Nitty Gritty [Unpublished]
 ---
 
-# What Powers "Spacegame"
+# What Powers Corporeality
 
-"Spacegame" is powered by the [Polar Engine](https://github.com/polar-engine/polar) which is under ongoing development by [⚡ Shockk](https://github.com/shockkolate)
+Corporeality is powered by the [Polar Engine](https://github.com/polar-engine/polar) which is under ongoing development by [⚡ Shockk](https://github.com/shockkolate)
 
 
 
-# What do I need to run "Spacegame"?
+# What do I need to run Corporeality?
 
 ### Minimum
 
@@ -29,7 +29,7 @@ title: About the Nitty Gritty [Unpublished]
 
 
 
-# What do you test "Spacegame" with?
+# What do you test Corporeality with?
 
 5 Test Systems
 
@@ -53,7 +53,3 @@ title: About the Nitty Gritty [Unpublished]
   - CPU : Intel Core i7-4700MQ
   - GPU : nVidia GeForce GTX 765M / Intel HD Graphics 4600
   - OS : Windows 10 (1903)
-
-# Why "Spacegame"?
-
-We are very bad at naming things.

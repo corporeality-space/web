@@ -1,5 +1,5 @@
 ---
-title: The Ships of "Spacegame"
+title: The Ships of Corporeality
 ---
 # Basic ship concepts
 All *Sol Central Federation* (SCF) based ships follow similar component design concepts.  
