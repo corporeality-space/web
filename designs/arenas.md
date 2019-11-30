@@ -74,3 +74,9 @@ Team 2 must destroy the freighter before it enters slipstream.
 > Now it's a self contained indoor combat arena with all the trimmings.  
 > A tight, claustrophobic and labyrinthine place, you never know what is around the next corner.  
 > Corridors and hangars are littered with the remains of the once busy station.
+
+## dm_void
+
+> A mysterious area of blackened space that seems to have been disrupted by a catastrophic Dark Matter incident.  
+> Sensors don't work correctly and you can barely see the bow of your ship, the bright glow of your thrusters dissipating into the darkness.
+> All ships entering The Void are equipped with a high energy light to illuminate the area directly ahead. However, obstacles may not be fully visible until you're right on top of them.
