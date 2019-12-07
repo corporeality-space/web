@@ -32,7 +32,7 @@ title: Potential Voice Line Concepts [Unpublished]
 
 - "Welcome Pilot."
 - "Welcome back, Pilot."
-- "Consciousness transfer complete."
+- "RCPS connection established."
 - "All systems online, ready for launch."
 
 ## Incoming Damage
@@ -52,6 +52,7 @@ title: Potential Voice Line Concepts [Unpublished]
 - "[Weapon Name] Acquired" (Arena Only)
 - (Notification) "Weapons Array Overheated. Initiating Cooldown Procedure."
 - (Alarm) "Overheat" (Firing with override active)
+- (Notification) "Target Destroyed"
 
 ## Navigation
 
