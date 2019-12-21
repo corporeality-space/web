@@ -80,3 +80,11 @@ Team 2 must destroy the freighter before it enters slipstream.
 > A mysterious area of blackened space that seems to have been disrupted by a catastrophic Dark Matter incident.  
 > Sensors don't work correctly and you can barely see the bow of your ship, the bright glow of your thrusters dissipating into the darkness.
 > All ships entering The Void are equipped with a high energy light to illuminate the area directly ahead. However, obstacles may not be fully visible until you're right on top of them.
+
+## dm_hades
+
+> The unironic nickname of a "demon class" nebula, "Hades" is named after the Patron God of the Ancient Greek underworld. 
+> Hades is a literal hellscape, a thick and highly energetic nebula swirling with plasma storms, EM discharge and (highly sought after) volitile gasses.
+> Visibility is poor at best and sensors rarely work properly, it's amazing that RCPS signals even penetrate it. (Not that it would stop the great corporations sending in actual manned flights if the signals didn't.)
+> Impact with a plasma stream will seriously damage any ship, or even destroy it.
+> Plasma streams and EM anomalies are highly mobile, staying still for any length of time is highly ill advised.
