@@ -28,7 +28,8 @@ If you want to check out the codebase, click [here](https://github.com/polar-eng
 
 Yes you can!  
 It's only a "Tech Demo" at this stage, but you can check out current builds on the [releases](https://github.com/corporeality-space/release/releases) page!  
-Check the [blog](/blog) for the latest release notes and updates.
+Check the [blog](/blog) for the latest release notes and updates.  
+Feedback for releases is currently acceted on our [Twitter](https://twitter.com/corporealty_dev) page.
 
 ### "Corporeality"?
 
@@ -42,4 +43,15 @@ We only have a vague idea of what we are doing, so this website is as experiment
 
 There *should* be some buttons up on the top bar for you to click on to take you to various sections of this site with [posts by members of the team](/blog), [information about game design](/design) and [releases](https://github.com/corporeality-space/release/releases)  
 The plan is to have a big update each week and sporadic updates from other team members about the code base, art assets and more.  
+
+### How can you support us?
+
+If you'd like to support us financially check out our [Patreon](https://partreon.com/mileskjeller) page. Whilst we're not offering much just now, expect that to change as time goes on.  
+During the "Tech Demo" phase, $5 pledges get a Steam Key for the game!  
+
+If you can't afford to support us financially please follow us on [Twitter](https://twitter.com/corporealty_dev) and share our updates with your friends!
+
+
+
+## Thank you for following the development of Corporeality!
 
