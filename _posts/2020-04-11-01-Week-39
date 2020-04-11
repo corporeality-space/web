@@ -1,0 +1,34 @@
+---
+title: Week 39 Update
+category: Draft
+author: ⚡ Shockk
+description: Unreal be unreal...
+---
+
+Welcome back to another Corporeality weekly update! This week we've been churning away at Unreal Engine for our breakout-inspired game.
+
+# Breakout
+
+While things have been slow-going, we've made some decisive progress in our development of this game, managing to implement a moving, bouncing ball, breakable bricks, and even a kill plane at the far right of the screen.
+
+We've refined the movement of the player paddle so that it feels a little bit more natural, although we have a lot more polish to do--especially to iterate on the design and collision bounds of the paddle--before we're done.
+
+# Lighting
+
+Additionally, we're currently working on setting up a reasonable lighting system for the game using Unreal. However, this has proven to be somewhat of a challenge.
+
+One of the things we'd really like to do is have the ball(s) emit their own light, illuminating the rest of the scene--imagine a glowing ball streaking across the play field, its glow reflecting off any nearby bricks.
+
+Unfortunately, we've had countless troubles trying to get even a basic lit scene to work in Unreal, despite the lighting appearing to work in the editor preview! I'm sure that we've just done something really stupid and it'll be a simple fix, but I think we need to clear our heads on this and come back to it at a later point.
+
+# Next Steps
+
+We're going to continue to iterate on the design of the paddle in order to get it feel right when trying to bounce the ball, and we might also switch up the collision bounds and visuals of the bricks.
+
+At the same time, we'll also continue to implement game mechanics and make more progress towards a playable game demo. Part of this will involve either generating maps or simply loading them from brick map files defined by us. Either way, this part should be the most fun.
+
+During all this, we're also hoping to resolve the lighting issues we've been having with Unreal. Once we fix the lighting, we'll be able to proceed with shaping the visuals of the game towards our vision.
+
+As always, we appreciate you sticking with us throughout our journey, and, until next time, వీడ్కోలు!
+
+###### {{ page.author }}, Lead Programmer
